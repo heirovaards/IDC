@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
-
-    <FilesMatch ".(eot|ttf|otf|woff)"></FilesMatch>
+    {{-- <FilesMatch ".(eot|ttf|otf|woff)"></FilesMatch> --}}
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta charset="utf-8">

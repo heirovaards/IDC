@@ -152,7 +152,6 @@ class AuthController extends Controller
 
         return redirect()->route('login')->with('user_recorded','User Successfully Recorded ');
 
-
   }
 
 //  logout function
